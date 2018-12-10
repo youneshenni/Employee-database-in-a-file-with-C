@@ -1,6 +1,7 @@
 # Employee-database-in-a-file-with-C
 ## Description
 **A Command line program for managing an employee data set.**
+
 **Each employee has:**
 - First name
 - Last name
